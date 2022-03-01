@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Test_cinematic_cpp",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
